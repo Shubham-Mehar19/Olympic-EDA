@@ -33,5 +33,5 @@ Data visualization is the method of converting raw data into a visual form, such
 
 ## OLYMPIC
 
-![App Screenshot](https://www.neweurope.eu/wp-content/uploads/2017/09/06_Paris.jpg)
+![App Screenshot](https://images.procon.org/wp-content/uploads/olympic-rings-1-1024x680.jpeg)
 
